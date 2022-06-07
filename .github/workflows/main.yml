@@ -1,5 +1,5 @@
 name: packing
-on:[push]
+on: [push]
 
 jobs:
   
